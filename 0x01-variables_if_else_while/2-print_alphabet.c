@@ -1,14 +1,15 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
- * main - print if the number is positive, zero or negative
- *
+ * main - Entry point
  * Description: using the main program
  * this program prints "Programming is positive, zero, or negative"
- * Return: 0
+ * Return: Always 0 (success)
  */
 int main(void)
 {
-	char ch;
+	int ch;
+
 	for (ch = 'a' ; ch <= 'z' ; ch++)
 	{
 		putchar(ch);

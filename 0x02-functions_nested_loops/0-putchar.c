@@ -4,6 +4,6 @@
 int main(void)
 {
 /*print _putchar*/	
-printf("_putchar\n");
+printf("putchar\n");
 return (0);
 }

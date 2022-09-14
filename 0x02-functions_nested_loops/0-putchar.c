@@ -5,5 +5,5 @@ int main(void)
 {
 /*print _putchar*/	
 printf("_putchar\n");
-return (0) ;
+return (0);
 }

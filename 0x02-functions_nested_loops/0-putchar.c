@@ -1,9 +1,22 @@
 #include <stdio.h>
 
-/*to print _putchar, followed by a new line*/
+/**
+ * main - Entry point
+ *
+ * Return: nothing, return void
+ */
+
 int main(void)
 {
-/*print _putchar*/	
-printf("_putchar");
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+
 return (0);
 }

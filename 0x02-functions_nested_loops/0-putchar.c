@@ -1,12 +1,11 @@
 #include <stdio.h>
 
-/* main - entry point
- *
- * Return: nothing, return void
- */
+/* main - entry point */
+/* Description: print _putchar, followed by a new line */
+/* Return: nothing, return void */
 
 int main(void)
 {
-printf("_putchari\n");
+printf("_putchar\n");
 return (0);
 }
